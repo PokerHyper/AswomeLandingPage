@@ -56,7 +56,7 @@ header {
 }
 
 #top-section {
-    background-image: url(../Images/friends.jpg);
+    background-image: url("Images/friends.jpg");
     height: 740px;
     border: none;
 }
@@ -210,7 +210,7 @@ header {
 }
 
 #fifth-section {
-    background-image: url(../Images/darkdesk.png);
+    background-image: url("Images/darkdesk.png");
     background-position: 50% 50%;
     padding-bottom: 45px;
 }
